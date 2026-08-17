@@ -1,0 +1,150 @@
+{
+    "version": 2,
+    "volumen_master": 0.76,
+    "pads": [
+        {
+            "numero": 1,
+            "nombre": "miau-baby-cat-efecto-de-sonido---sound-effects",
+            "modo": "KILL",
+            "ruta": "C:/Users/User/Downloads/miau-baby-cat-efecto-de-sonido---sound-effects.mp3",
+            "volumen": 0.73,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 2,
+            "nombre": "efecto-de-sonido-abrir-botella-de-cerveza-cartoon--cartoon-open-beer-bottle-sound-effect",
+            "modo": "KILL",
+            "ruta": "C:/Users/User/Downloads/efecto-de-sonido-abrir-botella-de-cerveza-cartoon--cartoon-open-beer-bottle-sound-effect.mp3",
+            "volumen": 1.0,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 3,
+            "nombre": "Característica - Festival de Viña",
+            "modo": "KILL",
+            "ruta": "D:/Music/SAmplerr/Característica - Festival de Viña.mp3",
+            "volumen": 0.64,
+            "fade_activo": true,
+            "fade_time": 2.0
+        },
+        {
+            "numero": 4,
+            "nombre": "huaso uyuuui",
+            "modo": "KILL",
+            "ruta": "D:/Music/SAmplerr/huaso uyuuui.mp3",
+            "volumen": 0.89,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 5,
+            "nombre": "Poing!",
+            "modo": "KILL",
+            "ruta": "D:/Music/SAmplerr/Poing!.mp3",
+            "volumen": 1.0,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 6,
+            "nombre": "Ardilla ",
+            "modo": "KILL",
+            "ruta": "D:/Music/SAmplerr/Ardilla .mp3",
+            "volumen": 1.0,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 7,
+            "nombre": "Y QUIEN ES ",
+            "modo": "KILL",
+            "ruta": "D:/Music/SAmplerr/Y QUIEN ES .mp3",
+            "volumen": 0.28,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 8,
+            "nombre": "Beso",
+            "modo": "KILL",
+            "ruta": "D:/Music/SAmplerr/Beso.mp3",
+            "volumen": 1.0,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 9,
+            "nombre": "Antonio Vodanovic - Gaviota",
+            "modo": "KILL",
+            "ruta": "D:/Music/SAmplerr/Antonio Vodanovic - Gaviota.mp3",
+            "volumen": 0.49,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 10,
+            "nombre": "Alarma",
+            "modo": "KILL",
+            "ruta": "D:/Music/SAmplerr/Alarma.mp3",
+            "volumen": 0.71,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 11,
+            "nombre": "faahhh-meme-sound-high-quality",
+            "modo": "KILL",
+            "ruta": "C:/Users/User/Downloads/faahhh-meme-sound-high-quality.mp3",
+            "volumen": 0.85,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 12,
+            "nombre": "clapping-sound",
+            "modo": "KILL",
+            "ruta": "C:/Users/User/Desktop/PadFX/sounds/clapping-sound.mp3",
+            "volumen": 1.0,
+            "fade_activo": true,
+            "fade_time": 2.0
+        },
+        {
+            "numero": 13,
+            "nombre": "CHAN",
+            "modo": "KILL",
+            "ruta": "D:/Music/SAmplerr/CHAN.mp3",
+            "volumen": 1.0,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 14,
+            "nombre": "chan_chan!!!!",
+            "modo": "KILL",
+            "ruta": "D:/Music/SAmplerr/chan_chan!!!!.mp3",
+            "volumen": 1.0,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 15,
+            "nombre": "CUAACK",
+            "modo": "KILL",
+            "ruta": "D:/Music/SAmplerr/CUAACK.mp3",
+            "volumen": 0.65,
+            "fade_activo": false,
+            "fade_time": 1.5
+        },
+        {
+            "numero": 16,
+            "nombre": "no-creo-meme",
+            "modo": "KILL",
+            "ruta": "C:/Users/User/Desktop/PadFX/sounds/no-creo-meme.mp3",
+            "volumen": 1.0,
+            "fade_activo": false,
+            "fade_time": 1.5
+        }
+    ]
+}

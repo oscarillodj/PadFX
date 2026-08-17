@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+build/
+dist/
+
+sounds/*.mp3
+sounds/*.wav
+sounds/*.WAV
